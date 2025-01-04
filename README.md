@@ -1,3 +1,5 @@
+# Short callout CSS snippet for Obsidian
+
 ## Usage
 
 Download the [short-callout.css](https://github.com/ltroj/obsidian-short-callout/blob/main/short-callout.css "short-callout.css") snippet and save it to `.obsidian/snippets/` in your vault. Activate the snippet under `Settings > Appearance > CSS Snippets`.
