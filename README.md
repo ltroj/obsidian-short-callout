@@ -1,4 +1,6 @@
-# Short callout CSS snippet for Obsidian
+# 📣 Short callout CSS snippet for Obsidian
+
+Short callouts are useful for brief lines of information that should appear close to the preceding paragraph.
 
 ## Usage
 
@@ -6,8 +8,7 @@ Download the [short-callout.css](https://github.com/ltroj/obsidian-short-callout
 
 ## Examples
 
-Short callouts are useful for brief lines of information that should appear close to the preceding paragraph.
-They follow the normal syntax for callouts and are characterized by the fact that their type identifier ends with a colon (:).
+Short callouts follow the normal syntax for callouts and are characterized by the fact that their type identifier ends with a colon (:).
 I like to use them for source references. ⤵️
 
 ![Example 1](readme-img/01.png)
