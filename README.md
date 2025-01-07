@@ -2,6 +2,8 @@
 
 Short callouts are useful for brief lines of information that should appear close to the preceding paragraph.
 
+![Demo](readme-img/05.gif)
+
 ## Usage
 
 Download the [short-callout.css](https://github.com/ltroj/obsidian-short-callout/blob/main/short-callout.css "short-callout.css") snippet and save it to `.obsidian/snippets/` in your vault. Activate the snippet under `Settings > Appearance > CSS Snippets`.
